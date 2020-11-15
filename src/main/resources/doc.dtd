@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+        <!ELEMENT Services (Service*)>
+
+        <!ELEMENT Service (Name, Cost)>
+
+        <!ELEMENT Name EMPTY>
+        <!ATTLIST Name
+                name CDATA #REQUIRED
+                >
+
+        <!ELEMENT Cost EMPTY>
+        <!ATTLIST Cost
+                count CDATA #REQUIRED
+                >

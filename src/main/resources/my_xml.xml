@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Services SYSTEM "doc.dtd">
+<Services>
+    <Service>
+        <Name name="Strigka kaskad"/>
+        <Cost count="1050"/>
+    </Service>
+    <Service>
+        <Name name="Strigka kare"/>
+        <Cost count="1250"/>
+    </Service>
+    <Service>
+        <Name name="Strigka bob"/>
+        <Cost count="1400"/>
+    </Service>
+    <Service>
+        <Name name="Strigka modelnaya"/>
+        <Cost count="1850"/>
+    </Service>
+    <Service>
+        <Name name="Ukladka utugom korokie"/>
+        <Cost count="590"/>
+    </Service>
+    <Service>
+        <Name name="Ukladka utugom dlinnie"/>
+        <Cost count="980"/>
+    </Service>
+</Services>
